@@ -1,4 +1,4 @@
-## **Lab 5 — Building Machine Learning Models with PySpark MLlib**
+## **Lab 08 — Building Machine Learning Models with PySpark MLlib**
 
 ##  Description
 

@@ -1,4 +1,4 @@
-# **Lab 06 - Architecting a Complete PySpark Data Engineering Project**
+# **Lab 09 - Architecting a Complete PySpark Data Engineering Project**
 
 ---
 

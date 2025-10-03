@@ -1,4 +1,4 @@
-# **Lab 3 — Data Processing Fundamentals with PySpark**
+# **Lab 03 — Data Processing Fundamentals with PySpark**
 
 ## Description
 

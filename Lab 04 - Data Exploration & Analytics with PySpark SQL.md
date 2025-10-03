@@ -1,4 +1,4 @@
-# **Lab 4 — Data Exploration & Analytics with PySpark SQL**
+# **Lab 04 — Data Exploration & Analytics with PySpark SQL**
 
 ## Description
 

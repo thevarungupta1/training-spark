@@ -1,4 +1,4 @@
-# Lab 2 — Setting up Apache Spark on Local Windows Machine
+# Lab 02 — Setting up Apache Spark on Local Windows Machine
 
 ---
 

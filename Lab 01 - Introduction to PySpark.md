@@ -1,4 +1,4 @@
-# **Getting Started with PySpark** 
+# **Lab 01 - Getting Started with PySpark** 
 
 ---
 
