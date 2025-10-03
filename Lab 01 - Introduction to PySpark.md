@@ -101,7 +101,7 @@ In short: **PySpark = Big Data + Pythonic Simplicity + Spark Power**.
 
 The diagram below shows **where each tool fits** on the data scale:  
 
-![Data Tools Comparison](images/pyspark_pandas_dask_hadoop.png)
+![Data Tools Comparison](sources/pyspark_pandas_dask_hadoop.png)
 
 ---
 
